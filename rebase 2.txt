@@ -4,3 +4,4 @@ changed
 commiting to local branch
 commiting to master
 again change
+changed
